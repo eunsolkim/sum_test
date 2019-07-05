@@ -1,4 +1,4 @@
-#include <cstudio>
+#include <cstdio>
 #include "sum.h"
 
 int main(){
